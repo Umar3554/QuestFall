@@ -1,6 +1,6 @@
 import bgImage from "@/assets/images/iceBg-small.jpg";
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const UnderConstruction: React.FC = () => {
   return (
